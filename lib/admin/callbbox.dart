@@ -33,7 +33,7 @@ class _callboxState extends State<callbox> {
                         fontSize: 50,
                         fontWeight: FontWeight.bold),
                   ),
-                  Text("")
+                  Text("...")
                 ],
               ),
             ),
